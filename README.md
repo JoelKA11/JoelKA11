@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Joel 👋
 
-<!--
-**JoelKA11/JoelKA11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate (2025)  
+🔧 Software Engineer with focus on Embedded Systems & Distributed Architectures  
+📍 Open to roles in software development, embedded systems, and backend engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a computer science graduate with a strong foundation in software engineering, embedded systems, distributed systems, and applied mathematics.
+
+My 30 ECTS thesis project focused on designing and implementing a modular, sensor-based board game system integrating:
+
+- Embedded microcontroller programming (Arduino / C)
+- RFID/NFC-based sensing
+- Real-time communication
+- Python-based server-side processing
+- Modular system architecture
+
+---
+## 🛠 Technical skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,eclipse,java,html,css,php,c,atom,idea,sublime,mysql,matlab)](https://skillicons.dev)
