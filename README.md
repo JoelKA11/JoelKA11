@@ -21,4 +21,4 @@ My 30 ECTS thesis project focused on designing and implementing a modular, senso
 ---
 ## 🛠 Technical skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,eclipse,java,html,css,php,c,atom,idea,sublime,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,eclipse,java,html,css,php,c,atom,idea,sublime,matlab,vscode)](https://skillicons.dev)
